@@ -12,7 +12,9 @@ In this lab, you’ve learned about One Hot and Binary state machines and how to
 | Question 3 | Your answers to the question | 25% |
 
 ## Lab Questions
-##Lab summary
+
+## Lab summary
+
 This lab involved building 2 forms of a basic state machine. The One Hot state machine has a D-FlipFlop for every state, meaning there is only one FlipFlop asserted at a time. Using a state machine diagram, the logic of each state can be isolated. Binary implementation has as many D-FlipFlops as represented in binary. For example, 5 states would require 3 bits, or 3 FlipFlops. Using K-maps, the inputs and outputs of the state machine can be reduced to the number of bits needed.
 
 
